@@ -1,7 +1,7 @@
 # Encriptador de Palabras
 
 ## Insignias
-![Terminado](https://img.shields.io/badge/estado-en%20desarrollo-blue)
+![Terminado](https://img.shields.io/badge/estado-terminado-brightgreen)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
 ## Descripción del proyecto
